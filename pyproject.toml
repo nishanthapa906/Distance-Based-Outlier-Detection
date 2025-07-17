@@ -1,0 +1,16 @@
+[project]
+name = "nissan-nix-workspace"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.3",
+    "numpy>=2.3.1",
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+    "reportlab>=4.4.2",
+    "scikit-learn>=1.7.0",
+    "seaborn>=0.13.2",
+    "streamlit>=1.47.0",
+    "weasyprint>=65.1",
+]
